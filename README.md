@@ -8,7 +8,7 @@
 
 I am a PhD researcher at Universitat Politècnica de Catalunya (UPC), focusing on Digital Twin Networks and network virtualization. Alongside my academic research, I have over 10 years of professional experience in business analysis, financial modeling, investment feasibility studies, and project development.
 
-I have also worked on cryptocurrency market research and educational content for Persian-speaking audiences.
+I have also worked on cryptocurrency market research, educational content for Persian-speaking audiences, technical analyst and trader.
 
 ## Areas of Interest
 
